@@ -1,4 +1,4 @@
-codeofconduct
+Hack Tahoe Code of Conduct
 =============
 
 ####Code for America's Code of Conduct
